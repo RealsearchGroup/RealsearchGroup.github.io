@@ -7,7 +7,7 @@ description: The goal of this research is to aid practitioners in producing more
 
 people:
     - profx
-    - grad-a
+    - grad-e
 
 layout: project
 last-updated: 2022-11-26
