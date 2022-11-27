@@ -21,11 +21,11 @@ link: false
 
 Research Contributions:
 
--Identify weak links signals in the npm dependency graph.
+- Identify weak links signals in the npm dependency graph.
 
--Empirical evaluation of open-source software to identify actionable security practice metrics.
+- Empirical evaluation of open-source software to identify actionable security practice metrics.
 
--ML model to identify Which practices are most important to understand the relationship between security practices and vulnerability counts.
+- ML model to identify Which practices are most important to understand the relationship between security practices and vulnerability counts.
 
--A framework to select good components for a secure software dependency graph.
+- A framework to select good components for a secure software dependency graph.
 
