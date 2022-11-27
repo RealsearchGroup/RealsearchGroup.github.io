@@ -1,6 +1,7 @@
 ---
 title: Supply Chain Security Metrics
-subtitle: Aid practitioners to identify secure software products in software ecosystem.
+subtitle: Aid practitioners to identify secure software products in software ecosystem
+status: active
 
 description: The goal of this research is to aid practitioners in producing more secure software products through the development
 of actionable security metrics, the identification of weak link signals, and the leveraging of software security measures in dependency graphs to select good components.
@@ -9,7 +10,7 @@ people:
     - grad-a
 
 layout: project
-last-updated: 2021-04-28
+last-updated: 2022-11-26
 
 notitle: false
 nolink: false 
