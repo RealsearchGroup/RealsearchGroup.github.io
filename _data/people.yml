@@ -19,14 +19,14 @@ wolverine:
     webpage: "https://www.linkedin.com/in/saikath-bhattacharya-1b8a6728/"
     github: null
     role: postdoc
-    image: "img/people/shaikath.jpeg"
+    image: "/img/people/shaikath.jpeg"
     bio: null
 
 grad-b:
     display_name: "Sarah Elder"
     role: grad
     webpage: "https://www.linkedin.com/in/seelder/"
-    image: "img/people/sarah.jpeg"
+    image: "/img/people/sarah.jpeg"
     bio: null
     github: null
 
@@ -34,7 +34,7 @@ grad-c:
     display_name: "Nasif Imtiaz"
     role: grad
     webpage: "https://nasifimtiazohi.github.io/"
-    image: "img/people/nasif.jpeg"
+    image: "/img/people/nasif.jpeg"
     bio: null
     github: null
 
@@ -42,7 +42,7 @@ grad-d:
     display_name: "Rezvan Mahdavi Hezaveh"
     role: grad
     webpage: "https://www.linkedin.com/in/rezvan-mahdavi-hezaveh-b9496739/"
-    image: "img/people/rezvan.jpeg"
+    image: "/img/people/rezvan.jpeg"
     bio: null
     github: null
 
@@ -59,7 +59,7 @@ grad-e:
     display_name: "Nusrat Zahan"
     role: grad
     webpage: "https://www.nzahan.net/"
-    image: "img/people/Nusrat.png"
+    image: "/img/people/Nusrat.png"
     bio: null
     github: null
 
