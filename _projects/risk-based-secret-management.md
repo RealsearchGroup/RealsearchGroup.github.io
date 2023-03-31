@@ -1,31 +1,31 @@
 ---
-title: Supply Chain Security Metrics
-subtitle: Aid practitioners to identify secure software products in software ecosystem
+title: Risk-based Secret Detection
+subtitle: Aid practitioners to identify checked-in credentials and mitigate secrets leakage
 status: active
 
-description: The goal of this research is to aid practitioners in producing more secure software products through the development of actionable security metrics, the identification of weak link signals, and the leveraging of software security measures in dependency graphs to select good components.
+description: The goal of this project is to aid software practitioners in reducing the security risk of checked-in secrets through the development of empirically-based tools for identifying and prioritizing the eradication of already checked-in secrets and techniques for securely managing secrets to prevent injection of secrets into a codebase.
 
 people:
     - profx
-    - grad-e
+    - grad-f
 
 layout: project
-last-updated: 2022-11-26
+last-updated: 2023-03-31
 
 notitle: false
 nolink: false 
 
-image: pictures/supply-chain-security.jpg
+image: pictures/software-secret.jpeg
 link: false
 ---
 
 Research Contributions:
 
-- Identify weak links signals in the npm dependency graph.
+- Understanding of the developer motivation and decision making related to checking in secrets.
 
-- Empirical evaluation of open-source software to identify actionable security practice metrics.
+- SecretBench, a benchmark of secret-containing files that can be used to compare secret detection tools.
 
-- ML model to identify Which practices are most important to understand the relationship between security practices and vulnerability counts.
+- Improved static analysis tools for detecting checked-in secrets.
 
-- A Software Supply Chain Risk Assessment Framework (SSCRAF) to assess and evaluate the risk of software products.
+- A risk-based tool for prioritizing the eradication of already checked-in secrets.
 
