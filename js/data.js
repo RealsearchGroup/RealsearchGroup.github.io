@@ -1,5 +1,29 @@
 var dataSet = [
     {
+        "type": "inproceedings",
+        "venue": "The 20th International Conference on Mining Software Repositories (MSR 2023)",
+        "author": "Setu Kumar Basak, Lorenzo Neil, Bradley Reaves, Laurie Williams",
+        "title": "SecretBench: A Dataset of Software Secrets",
+        "year": "2023",
+        "url": "https://doi.org/10.48550/arXiv.2303.06729"
+    },
+    {
+        "type": "inproceedings",
+        "venue": "The 45th International Conference on Software Engineering (ICSE 2023)",
+        "author": "Setu Kumar Basak, Lorenzo Neil, Bradley Reaves, Laurie Williams",
+        "title": "What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?",
+        "year": "2023",
+        "url": "https://doi.org/10.48550/arXiv.2301.12377"
+    },
+    {
+        "type": "inproceedings",
+        "venue": "2022 IEEE Secure Development Conference (SecDev)",
+        "author": "Setu Kumar Basak, Lorenzo Neil, Bradley Reaves, Laurie Williams",
+        "title": "What are the Practices for Secret Management in Software Artifacts?",
+        "year": "2022",
+        "url": "https://doi.org/10.1109/SecDev53368.2022.00026"
+    },
+    {
         "type": "article",
         "venue": "Empirical Software Engineering",
         "author": "Hui Guo, Ozgur Kafali, Anne{-}Liz Jeukeng, Laurie A. Williams, Munindar P. Singh",
