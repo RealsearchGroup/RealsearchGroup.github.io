@@ -15,7 +15,7 @@ last-updated: 2023-03-31
 notitle: false
 nolink: false 
 
-image: pictures/software-secret.jpeg
+image: /pictures/software-secret.jpeg
 link: false
 ---
 
