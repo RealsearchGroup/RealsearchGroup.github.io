@@ -27,5 +27,5 @@ Research Contributions:
 
 - ML model to identify Which practices are most important to understand the relationship between security practices and vulnerability counts.
 
-- A framework to select good components for a secure software dependency graph.
+- A Software Supply Chain Risk Assessment Framework (SSCRAF) to assess and evaluate the risk of software products.
 
