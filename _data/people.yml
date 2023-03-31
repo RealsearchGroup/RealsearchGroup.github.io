@@ -63,6 +63,14 @@ grad-e:
     bio: null
     github: null
 
+grad-f:
+    display_name: "Setu Kumar Basak"
+    role: grad
+    webpage: "https://www.linkedin.com/in/setu1421/"
+    image: "img/people/setu.jpeg"
+    bio: null
+    github: setu1421
+
 
 alum-a:
     display_name: "Monica Metro"
