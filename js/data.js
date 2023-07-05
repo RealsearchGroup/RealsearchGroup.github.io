@@ -1,6 +1,14 @@
 var dataSet = [
     {
         "type": "inproceedings",
+        "venue": "The International Symposium on Empirical Software Engineering and Measurement (ESEM 2023)",
+        "author": "Setu Kumar Basak, Jamison Cox, Bradley Reaves, Laurie Williams",
+        "title": "A Comparative Study of Software Secrets Reporting by Secret Detection Tools",
+        "year": "2023",
+        "url": "https://doi.org/10.48550/arXiv.2307.00714"
+    },
+    {
+        "type": "inproceedings",
         "venue": "The 20th International Conference on Mining Software Repositories (MSR 2023)",
         "author": "Setu Kumar Basak, Lorenzo Neil, Bradley Reaves, Laurie Williams",
         "title": "SecretBench: A Dataset of Software Secrets",
