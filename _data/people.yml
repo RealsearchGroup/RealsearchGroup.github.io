@@ -71,6 +71,14 @@ grad-f:
     bio: null
     github: setu1421
 
+grad-i:
+    display_name: "Imranur Rahman"
+    role: grad
+    webpage: "https://imranur-rahman.github.io/"
+    image: "/img/people/imran.jpg"
+    bio: null
+    github: imranur-rahman
+
 
 alum-a:
     display_name: "Monica Metro"
