@@ -79,6 +79,13 @@ grad-i:
     bio: null
     github: imranur-rahman
 
+grad-s:
+    display_name: "Sivana Hamer"
+    role: grad
+    webpage: "https://sivanahamer.github.io/"
+    image: "/img/people/sivana.jpg"
+    bio: null
+    github: sivanahamer
 
 alum-a:
     display_name: "Monica Metro"
