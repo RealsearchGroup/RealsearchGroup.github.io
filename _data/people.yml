@@ -73,7 +73,7 @@ grad-s:
 
 alum-ad:
     display_name: "Nasif Imtiaz"
-    role: alumn
+    role: alum
     webpage: "https://nasifimtiazohi.github.io/"
     image: "/img/people/nasif.jpeg"
     bio: null
@@ -81,7 +81,7 @@ alum-ad:
 
 alum-ac:
     display_name: "Rezvan Mahdavi Hezaveh"
-    role: alumn
+    role: alum
     webpage: "https://www.linkedin.com/in/rezvan-mahdavi-hezaveh-b9496739/"
     image: "/img/people/rezvan.jpeg"
     bio: null
