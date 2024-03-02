@@ -30,28 +30,12 @@ grad-b:
     bio: null
     github: null
 
-grad-c:
-    display_name: "Nasif Imtiaz"
-    role: grad
-    webpage: "https://nasifimtiazohi.github.io/"
-    image: "/img/people/nasif.jpeg"
-    bio: null
-    github: null
-
-grad-d:
-    display_name: "Rezvan Mahdavi Hezaveh"
-    role: grad
-    webpage: "https://www.linkedin.com/in/rezvan-mahdavi-hezaveh-b9496739/"
-    image: "/img/people/rezvan.jpeg"
-    bio: null
-    github: null
-
 
 grad-a:
     display_name: "Md Rayhanur Rahman"
     role: grad
     webpage: "https://rayhanur-rahman.github.io/"
-    image: https://rayhanur-rahman.github.io/assets/images/profile.png
+    image: https://rayhanur-rahman.github.io/assets/images/prof_pic.png
     bio: null
     github: rayhanur-rahman
 
@@ -86,6 +70,22 @@ grad-s:
     image: "/img/people/sivana.jpg"
     bio: null
     github: sivanahamer
+
+alum-ad:
+    display_name: "Nasif Imtiaz"
+    role: alumn
+    webpage: "https://nasifimtiazohi.github.io/"
+    image: "/img/people/nasif.jpeg"
+    bio: null
+    github: null
+
+alum-ac:
+    display_name: "Rezvan Mahdavi Hezaveh"
+    role: alumn
+    webpage: "https://www.linkedin.com/in/rezvan-mahdavi-hezaveh-b9496739/"
+    image: "/img/people/rezvan.jpeg"
+    bio: null
+    github: null
 
 alum-a:
     display_name: "Monica Metro"

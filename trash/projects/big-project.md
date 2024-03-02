@@ -10,8 +10,8 @@ people:
   - profx
   - grad-a
   - grad-b
-  - grad-c
-  - grad-d
+  - alum-ad
+  - alum-ac
   - scott
   - wolverine
   - ugrad-a
