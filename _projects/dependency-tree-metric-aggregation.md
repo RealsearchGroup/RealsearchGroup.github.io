@@ -17,7 +17,7 @@ last-updated: 2024-06-28
 notitle: false
 nolink: false 
 
-image: /pictures/dependency-tree-colorful.svg
+image: /pictures/dependency-tree-colorful.png
 link: false
 ---
 
