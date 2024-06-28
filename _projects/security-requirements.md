@@ -23,3 +23,6 @@ link: false
 Research Contributions:
  - (The Security Requirements Discoverer (SRD) framework for discovering goals for security requirements from natura language artifacts)[https://github.com/RealsearchGroup/SRD]
   - (The Role Extraction and Database Enforcement (REDE) framework for extracting database Access Control policies from natural language Artifacts)[https://github.com/RealsearchGroup/REDE]
+
+*(Image Attribtion: 991joseph, CC0, via Wikimedia Commons)*
+  <!-- Image Attribution: 991joseph, CC0, via Wikimedia Commons -->
