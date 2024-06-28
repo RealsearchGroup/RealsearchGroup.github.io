@@ -10,6 +10,7 @@ description: The goal of this research is to aid developers and software archite
 people:
     - profx
     - grad-b
+    - grad-e
 
 layout: project
 last-updated: 2024-06-28
@@ -17,7 +18,7 @@ last-updated: 2024-06-28
 notitle: false
 nolink: false 
 
-image: /pictures/dependency-tree-colorful.png
+image: /pictures/dependency-tree-colorful.jpg
 link: false
 ---
 
