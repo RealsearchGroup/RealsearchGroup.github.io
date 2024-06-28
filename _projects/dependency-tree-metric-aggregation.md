@@ -32,6 +32,7 @@ Participants will be asked to fill out a 15-minute survey, in which they will be
 
 If you are interested in participating, please contact Sarah Elder (seelder at ncsu.edu)
 
+# About This Study
 
 ## Motivation
 Practitioners rely on high-level measures that are readily accessible to evaluate the risk of incorporating an open-source software component. However, incorporating a software component does not always involve just one component. Each component may depend on other components, which in turn depend on other components, creating a network of dependencies often referred to as a dependency tree. Given the rarity of software vulnerabilities and the reactive (not proactive) nature of vulnerability-based security assessments, our work endeavors to understand how other security metrics should incorporate information from throughout a package's dependency tree.
