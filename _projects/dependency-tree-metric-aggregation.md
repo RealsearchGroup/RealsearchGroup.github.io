@@ -45,7 +45,8 @@ Practitioners rely on high-level measures that are readily accessible to evaluat
  - What approaches do practitioners recommend for aggregating measures across a component's dependency tree?
  - How would including aggregate security information from a package's dependencies alter its security score, relative to other packages?
 
- ## Metrics
+
+## Metrics
  As part of this study, we are using metrics from the [OpenSSF Scorecard](https://securityscorecards.dev) tool. While we are in contact with the OpenSSF Scorecard community, this research is being performed independently and all thoughts and opinions expressed are those of the researchers.
 
 These metrics include a measure of how actively a project is *Maintained*, whether the project uses *Branch Protection* such as preventing force-push actions in Github, whether the project has a *Security Policy* such as documentation of processes for vulnerabilityr reporting, whether the project uses *Code Review*, whether a project has *Pinned Dependencies* and whether the project contains *Binary Artifacts*.
