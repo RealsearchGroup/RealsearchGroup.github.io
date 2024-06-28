@@ -1,5 +1,5 @@
 ---
-title: Surfacing Security Metrics from Throughout a Package's Dependency Tree (Survey)
+title: Surfacing Security Metrics from Throughout a Package's Dependency Tree **(Survey)**
 subtitle: Aid practitioners in making informed decisions about which third-party packages to use or replace
 status: active
 
@@ -42,6 +42,7 @@ Practitioners rely on high-level measures that are readily accessible to evaluat
 
 
 ## Research Questions
+The research questions we seek to address in our study are:
  - What approaches do practitioners recommend for aggregating measures across a component's dependency tree?
  - How would including aggregate security information from a package's dependencies alter its security score, relative to other packages?
 
@@ -53,14 +54,14 @@ These metrics include a measure of how actively a project is *Maintained*, wheth
 
 Currently these metrics, similar to many other metrics automatically collected, focus on the activity and policies within a particular package (i.e. the "root" package of a dependency tree). These metrics do *not* currently provide information on the additional packages.
 
-Is that a problem? Well, it may depend on the metric. That is where we need help ...
+Is that a problem? Well, it may depend on the metric. *That is where we need help ...*
 
 ## Survey Details
 We are looking for survey participants, as mentioned previously, to provide feedback on our initial prototype methods for aggregating metrics using information throughout a package's dependency tree. If we are completely wrong and should try something else - we want to know that, too!
 
 Participation includes filling out a questionaire about the metrics and aggregation methods, followed by a few, short questions to help us understand background and experiences of our participants that may influence their responses. Overall, the survey should take less than 15 minutes to complete.
 
- We value our participants privacy. Multiple-choice and numeric information will be reported in aggregate, such that a response cannot be traced back to an individual. Quotes used from free-response questions will be short, and we will avoid using quotes with information such as the name of an organization the individual is affiliated with, which could be used to identify the participant. 
+ We value our participants privacy. Multiple-choice and numeric information will be reported in aggregate, such that a response cannot be traced back to an individual. Quotes used from free-response questions will be short, and we will remove information such as the name of an organization the individual is affiliated with, which could be used to identify the participant. 
 
  We appreciate particpants taking the time to fill out our survey. All participants will be entered into a drawing for one of three $20 Amazon gift cards. Email addresses will be used for this drawing, if the participant chooses to enter, then removed from our records to ensure privacy.
 
