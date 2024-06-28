@@ -22,7 +22,7 @@ link: false
 ---
 The goal of this research is to aid developers and software architects in making good component choices through an analysis of the relevance and utility of security measures from the entire dependency tree associated with a package.
 
-## Survey Information
+# Survey Overview
 
 We are currently performing a survey to try to better understand how different approaches for surfacing security information from a project's dependency tree may (or may not) help developers when determining whether to and how to use third-party libraries.
 
@@ -31,6 +31,8 @@ We are looking for participants with experience in using third-party libraries, 
 Participants will be asked to fill out a 15-minute survey, in which they will be asked whether different methods for surfacing information from throughout a project's dependency tree would be helpful.
 
 If you are interested in participating, please contact Sarah Elder (seelder at ncsu.edu)
+
+<!-- Survey Link to go Here -->
 
 # About This Study
 
@@ -52,8 +54,8 @@ Currently these metrics, similar to many other metrics automatically collected, 
 
 Is that a problem? Well, it may depend on the metric. That is where we need help ...
 
-## Survey procedure and participation
-We are looking for survey participants, as mentioned previously, to provide feedback on our initial prototype methods for aggregating metrics using information throughout a package's dependency tree. 
+## Survey Details
+We are looking for survey participants, as mentioned previously, to provide feedback on our initial prototype methods for aggregating metrics using information throughout a package's dependency tree. If we are completely wrong - that is good to know too!
 
 Participation includes filling out a questionaire about the metrics and aggregation methods, followed by 3 questions to help us understand the background and experience of our participants that may influence their responses. Overall, the survey should take less than 15 minutes to complete.
 
@@ -63,7 +65,7 @@ Participation includes filling out a questionaire about the metrics and aggregat
 
 
 
-<!-- Information about compensation/random draw to go here -->
+<!-- Survey Link to go Here -->
 
 
 
