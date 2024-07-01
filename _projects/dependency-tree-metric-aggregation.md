@@ -63,7 +63,7 @@ Participation includes filling out a questionaire about the metrics and aggregat
 
  We value our participants privacy. Multiple-choice and numeric information will be reported in aggregate, such that a response cannot be traced back to an individual. Quotes used from free-response questions will be short, and we will remove information such as the name of an organization the individual is affiliated with, which could be used to identify the participant. 
 
- The full informed consent information can be found [here](../misc/Survey Consent Form_v4a_release.pdf)
+ The full informed consent information can be found [here](https://github.com/RealsearchGroup/RealsearchGroup.github.io/blob/main/misc/26676%20Survey%20Consent%20Form_v4a_release.pdf)
 
  We appreciate particpants taking the time to fill out our survey. All participants will be entered into a drawing for one of three $20 Amazon gift cards. Email addresses will be used for this drawing, if the participant chooses to enter, then removed from our records to ensure privacy.
 
