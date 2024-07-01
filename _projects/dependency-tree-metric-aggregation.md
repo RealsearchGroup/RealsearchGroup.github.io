@@ -1,5 +1,5 @@
 ---
-title: Surfacing Security Metrics from Throughout a Package's Dependency Tree **(Survey)**
+title: Surfacing Security Metrics from Throughout a Package's Dependency Tree (Survey)
 subtitle: Aid practitioners in making informed decisions about which third-party packages to use or replace
 status: active
 
