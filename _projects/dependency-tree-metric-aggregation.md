@@ -65,7 +65,7 @@ Participation includes filling out a questionaire about the metrics and aggregat
 
  The full informed consent information can be found [here](https://github.com/RealsearchGroup/RealsearchGroup.github.io/blob/main/misc/26676%20Survey%20Consent%20Form_v4a_release.pdf)
 
- We appreciate particpants taking the time to fill out our survey. All participants will be entered into a drawing for a $20 Amazon gift card. Email addresses will be used for this drawing, if the participant chooses to enter, then removed from our records to ensure privacy.
+ We appreciate participants taking the time to fill out our survey. All participants will be entered into a drawing for a $20 Amazon gift card. Email addresses will be used for this drawing, if the participant chooses to enter, then removed from our records to ensure privacy.
 
 
 
