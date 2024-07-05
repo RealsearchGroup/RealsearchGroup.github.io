@@ -32,6 +32,8 @@ Participants will be asked to fill out a 15-minute survey, in which they will be
 
 If you are interested in participating, please contact Sarah Elder (seelder at ncsu.edu)
 
+ The full informed consent information can be found [here](https://github.com/RealsearchGroup/RealsearchGroup.github.io/blob/main/misc/26676%20Survey%20Consent%20Form_v4a_release.pdf)
+
 <!-- Survey Link to go Here -->
 
 # About This Study
