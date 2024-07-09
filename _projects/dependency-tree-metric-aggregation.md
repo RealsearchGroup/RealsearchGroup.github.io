@@ -32,7 +32,7 @@ Participants will be asked to fill out a 15-minute survey, in which they will be
 
 If you are interested in participating, please contact Sarah Elder (seelder at ncsu.edu) to get a link to the survey, pre-filled based on what project(s) you are actively working on.
 
-The survey for GO developers can also be found at: https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q
+The survey for GO developers can also be found at: [https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q](https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q)
 
 (Warning: Due to technical difficulties, the survey does not have a "back" button. If you need to restart the survey you will need to do so from the beginning)
 
