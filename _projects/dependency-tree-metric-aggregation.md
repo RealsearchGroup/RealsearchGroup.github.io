@@ -30,7 +30,9 @@ We are looking for participants with experience in using third-party libraries, 
 
 Participants will be asked to fill out a 15-minute survey, in which they will be asked whether different methods for surfacing information from throughout a project's dependency tree would be helpful.
 
-If you are interested in participating, please contact Sarah Elder (seelder at ncsu.edu)
+If you are interested in participating, please contact Sarah Elder (seelder at ncsu.edu) to get a link to the survey, pre-filled based on what project(s) you are actively working on.
+
+The survey for GO developers can also be found at: https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q
 
  The full informed consent information can be found [here](https://github.com/RealsearchGroup/RealsearchGroup.github.io/blob/main/misc/26676%20Survey%20Consent%20Form_v4a_release.pdf)
 
