@@ -34,9 +34,8 @@ If you are interested in participating, please contact Sarah Elder (seelder at n
 
 The survey for GO developers can also be found at: [https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q](https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q)
 
-(Warning: Due to technical difficulties, the survey does not have a "back" button. If you need to restart the survey you will need to do so from the beginning)
 
- The full informed consent information can be found [here](https://github.com/RealsearchGroup/RealsearchGroup.github.io/blob/main/misc/26676%20Survey%20Consent%20Form_v4a_release.pdf)
+ The full informed consent information (including information about our Institutional Review Board protocol) can be found [here](https://github.com/RealsearchGroup/RealsearchGroup.github.io/blob/main/misc/26676%20Survey%20Consent%20Form_v4a_release.pdf)
 
 <!-- Survey Link to go Here -->
 
