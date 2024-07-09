@@ -74,6 +74,9 @@ Participation includes filling out a questionaire about the metrics and aggregat
 
 
 
+## Funding
+ This research is supported by the National Science Foundation under Grant No. 2207008. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the researcher(s) and do not necessarily reflect the views of the National Science Foundation.
+
 <!-- Survey Link to go Here -->
 
 
