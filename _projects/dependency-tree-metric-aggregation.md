@@ -34,6 +34,8 @@ If you are interested in participating, please contact Sarah Elder (seelder at n
 
 The survey for GO developers can also be found at: https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q
 
+(Warning: Due to technical difficulties, the survey does not have a "back" button. If you need to restart the survey you will need to do so from the beginning)
+
  The full informed consent information can be found [here](https://github.com/RealsearchGroup/RealsearchGroup.github.io/blob/main/misc/26676%20Survey%20Consent%20Form_v4a_release.pdf)
 
 <!-- Survey Link to go Here -->
@@ -69,7 +71,7 @@ Participation includes filling out a questionaire about the metrics and aggregat
 
  The full informed consent information can be found [here](https://github.com/RealsearchGroup/RealsearchGroup.github.io/blob/main/misc/26676%20Survey%20Consent%20Form_v4a_release.pdf)
 
- We appreciate participants taking the time to fill out our survey. All participants will be entered into a drawing for a $20 Amazon gift card. Email addresses will be used for this drawing, if the participant chooses to enter, then removed from our records to ensure privacy.
+ We appreciate participants taking the time to fill out our survey. All participants will be entered into a drawing for one of our $20 Amazon gift cards. Email addresses will be used for this drawing, if the participant chooses to enter, then removed from our records to ensure privacy.
 
 
 
