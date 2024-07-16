@@ -24,6 +24,8 @@ The goal of this research is to aid developers and software architects in making
 
 The survey for GO developers is LIVE! And can be found at: [https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q](https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q)
 
+If possible, please fill out the survey *no later than July 19*.
+
 # Survey Overview
 
 We are currently performing a survey to try to better understand how different approaches for surfacing security information from a project's dependency tree may (or may not) help developers when determining whether to and how to use third-party libraries.
