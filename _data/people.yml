@@ -14,14 +14,6 @@ profx:
 #     image: /img/people/scott.png
 #     bio: aka Cyclops
 
-wolverine:
-    display_name: "Saikath Bhattacharya"
-    webpage: "https://www.linkedin.com/in/saikath-bhattacharya-1b8a6728/"
-    github: null
-    role: postdoc
-    image: "/img/people/shaikath.jpeg"
-    bio: null
-
 grad-e:
     display_name: "Nusrat Zahan"
     role: grad
@@ -85,6 +77,14 @@ alum-ac:
     image: "/img/people/rezvan.jpeg"
     bio: null
     github: null
+
+alum-aa:
+    display_name: "Saikath Bhattacharya"
+    webpage: "https://www.linkedin.com/in/saikath-bhattacharya-1b8a6728/"
+    github: null
+    role: alum
+    image: "/img/people/shaikath.jpeg"
+    bio: null
 
 alum-a:
     display_name: "Monica Metro"
