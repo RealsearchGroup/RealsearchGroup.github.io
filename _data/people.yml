@@ -22,23 +22,6 @@ wolverine:
     image: "/img/people/shaikath.jpeg"
     bio: null
 
-grad-b:
-    display_name: "Sarah Elder"
-    role: grad
-    webpage: "https://www.linkedin.com/in/seelder/"
-    image: "/img/people/sarah.jpeg"
-    bio: null
-    github: null
-
-
-grad-a:
-    display_name: "Md Rayhanur Rahman"
-    role: grad
-    webpage: "https://rayhanur-rahman.github.io/"
-    image: https://rayhanur-rahman.github.io/assets/images/prof_pic.png
-    bio: null
-    github: rayhanur-rahman
-
 grad-e:
     display_name: "Nusrat Zahan"
     role: grad
@@ -70,6 +53,22 @@ grad-s:
     image: "/img/people/sivana.jpg"
     bio: null
     github: sivanahamer
+
+alum-af:
+    display_name: "Sarah Elder"
+    role: alum
+    webpage: "https://www.linkedin.com/in/seelder/"
+    image: "/img/people/sarah.jpeg"
+    bio: null
+    github: null
+
+alum-ae:
+    display_name: "Md Rayhanur Rahman"
+    role: alum
+    webpage: "https://rayhanur-rahman.github.io/"
+    image: https://rayhanur-rahman.github.io/assets/images/prof_pic.png
+    bio: null
+    github: rayhanur-rahman
 
 alum-ad:
     display_name: "Nasif Imtiaz"
