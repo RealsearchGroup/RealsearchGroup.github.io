@@ -46,6 +46,14 @@ grad-s:
     bio: null
     github: sivanahamer
 
+grad-t:
+    display_name: "Jill Marley"
+    role: grad
+    webpage: "https://www.linkedin.com/in/jill-marley/"
+    image: "/img/people/jill_marley.jpeg"
+    bio: null
+    github: null    
+
 alum-af:
     display_name: "Sarah Elder"
     role: alum
