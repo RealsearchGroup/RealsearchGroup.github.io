@@ -1,5 +1,37 @@
 var dataSet = [
     {
+        "type": "article",
+        "venue": "ACM Computing Surveys",
+        "author": "Sarah Elder, Md Rayhanur Rahman, Gage Fringer, Kunal Kapoor, and Laurie Williams",
+        "title": "A Survey on Software Vulnerability Exploitability Assessment",
+        "year": "2024",
+        "url": "https://doi.org/10.1145/3648610"
+    },
+    {
+        "type": "article",
+        "venue": "{IEEE} Security {\\&} Privacy",
+        "author": "Laurie Williams",
+        "title": "Narrowing the Software Supply Chain Attack Vectors: The SSDF Is Wonderful but not Enough",
+        "year": "2024",
+        "url": "https://doi.org/10.1109/MSEC.2024.3359798"
+    },
+    {
+        "type": "inproceedings",
+        "venue": "International Conference on Mining Software Repositories (MSR 2024)",
+        "author": "Nusrat Zahan, Philipp Burckhardt, Mikola Lysenko, Feross Aboukhadijeh, and Laurie Williams",
+        "title": "MalwareBench: Malware samples are not enough",
+        "year": "2024",
+        "url": "https://doi.org/10.1145/3643991.3644883"
+    },
+    {
+        "type": "inproceedings",
+        "venue": "IEEE Security and Privacy Workshops (SPW 2024)",
+        "author": "Sivana Hamer, Marcelo d'Amorim, and Laurie Williams",
+        "title": "Just another copy and paste? Comparing the security vulnerabilities of ChatGPT generated code and StackOverflow answers",
+        "year": "2024",
+        "url": "https://doi.org/10.1109/SPW63631.2024.00014"
+    },
+    {
         "type": "inproceedings",
         "venue": "The International Symposium on Empirical Software Engineering and Measurement (ESEM 2023)",
         "author": "Setu Kumar Basak, Jamison Cox, Bradley Reaves, Laurie Williams",
