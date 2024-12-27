@@ -37,7 +37,15 @@ grad-i:
     image: "/img/people/imran.jpg"
     bio: null
     github: imranur-rahman
-
+    
+grad-m:
+    display_name: "Mahzabin Tamanna"
+    role: grad
+    webpage: "https://sites.google.com/view/mahzabintamanna/home"
+    image: "/img/people/mahzabin.png"
+    bio: null
+    github: Mahzabin-Tamanna
+    
 grad-s:
     display_name: "Sivana Hamer"
     role: grad
