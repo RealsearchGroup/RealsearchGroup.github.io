@@ -3,7 +3,7 @@ title: Supply Chain Security Metrics
 subtitle: Aid practitioners to identify secure software products in software ecosystem
 status: active
 
-description: The goal of this research is to aid practitioners in producing more secure software products through the development of actionable security metrics, the identification of weak link signals, and the leveraging of software security measures in dependency graphs to select good components.
+description: The goal of this research is to aid practitioners in producing more secure software products through the development of actionable security metrics, the identification of weak link signals, and the leveraging of software security measures in dependency graphs to select good components. 
 
 people:
     - profx
@@ -19,13 +19,13 @@ image: /pictures/supply-chain-security.jpg
 link: false
 ---
 
-Research Contributions:
+**Research Contributions**:
 
 - Identify weak links signals in the npm dependency graph.
+  
+- An automated code review workflow powered by Large Language Models (LLMs) for detecting malicious packages.
 
 - Empirical evaluation of open-source software to identify actionable security practice metrics.
 
-- ML model to identify Which practices are most important to understand the relationship between security practices and vulnerability counts.
-
-- A Software Supply Chain Risk Assessment Framework (SSCRAF) to assess and evaluate the risk of software products.
+- Model to identify which security practices are most important to understand the relationship between security practices and security outcome metrics.
 
