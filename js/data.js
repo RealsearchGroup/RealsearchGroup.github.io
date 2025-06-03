@@ -1,6 +1,14 @@
 var dataSet = [
     {
         "type": "article",
+        "venue": "IEEE Transactions on Software Engineering",
+        "author": "Sivana Hamer, Nasif Imtiaz, Mahzabin Tamanna, Preya Shabrina, Laurie Williams",
+        "title": "Trusting Code in the Wild: Exploring Contributor Reputation Measures to Review Dependencies in the Rust Ecosystem",
+        "year": "2025",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10932824"
+    },
+    {
+        "type": "article",
         "venue": "ACM Computing Surveys",
         "author": "Sarah Elder, Md Rayhanur Rahman, Gage Fringer, Kunal Kapoor, and Laurie Williams",
         "title": "A Survey on Software Vulnerability Exploitability Assessment",

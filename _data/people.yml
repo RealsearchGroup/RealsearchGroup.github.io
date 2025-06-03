@@ -22,14 +22,6 @@ grad-e:
     bio: null
     github: null
 
-grad-f:
-    display_name: "Setu Kumar Basak"
-    role: grad
-    webpage: "https://www.linkedin.com/in/setu1421/"
-    image: "/img/people/setu.jpeg"
-    bio: null
-    github: setu1421
-
 grad-i:
     display_name: "Imranur Rahman"
     role: grad
@@ -52,7 +44,15 @@ grad-t:
     webpage: "https://www.linkedin.com/in/jill-marley/"
     image: "/img/people/jill_marley.jpeg"
     bio: null
-    github: null    
+    github: null   
+
+alum-ag:
+    display_name: "Setu Kumar Basak"
+    role: alum
+    webpage: "https://www.linkedin.com/in/setu1421/"
+    image: "/img/people/setu.jpeg"
+    bio: null
+    github: setu1421
 
 alum-af:
     display_name: "Sarah Elder"
