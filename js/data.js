@@ -8,6 +8,70 @@ var dataSet = [
         "url": "https://ieeexplore.ieee.org/abstract/document/10932824"
     },
     {
+        "type": "inproceedings",
+        "venue": "IEEE/ACM International Conference on Software Engineering (ICSE)",
+        "author": "Nusrat Zahan, Philipp Burckhardt, Mikola Lysenko, Feross Aboukhadijeh, Laurie Williams",
+        "title": "Leveraging Large Language Models to Detect npm Malicious Packages",
+        "year": "2025",
+        "url": "https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00146"
+    },
+    {
+        "type": "inproceedings",
+        "venue": "IEEE/ACM International Conference on Software Engineering (ICSE)",
+        "author": "Setu Kumar Basak, K. Virgil English, Ken Ogura, Vitesh Kambara, Bradley Reaves, Laurie Williams",
+        "title": "AssetHarvester: A Static Analysis Tool for Detecting Secret-Asset Pairs in Software Artifacts",
+        "year": "2025",
+        "url": "https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00067"
+    },
+    {
+        "type": "article",
+        "venue": "ACM Transactions on Software Engineering and Methodology",
+        "author": "Laurie Williams, Giacomo Benedetti, Sivana Hamer, Ranindya Paramitha, Imranur Rahman, Mahzabin Tamanna, Greg Tystahl, Nusrat Zahan, Patrick Morrison, Yasemin Acar, Michel Cukier, Christian Kästner, Alexandros Kapravelos, Dominik Wermke, William Enck",
+        "title": "Research directions in software supply chain security",
+        "year": "2025",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3714464"
+    },
+    {
+        "type": "article",
+        "venue": "Empirical Software Engineering",
+        "author": "Aishwarya Seth, Saikath Bhattacharya, Sarah Elder, Nusrat Zahan, Laurie Williams",
+        "title": "Comparing effectiveness and efficiency of interactive application security testing (IAST) and runtime application self-protection (RASP) tools in a large java-based system",
+        "year": "2025",
+        "url": "https://link.springer.com/article/10.1007/s10664-025-10621-5"
+    },
+    {
+        "type": "article",
+        "venue": "Journal of Information Security and Applications",
+        "author": "Md Rayhanur Rahman, Imranur Rahman, Laurie Williams",
+        "title": "If you cannot Measure it, you cannot Secure it. A Case Study on Metrics for Informed Choice of Security Controls",
+        "year": "2025",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S2214212625000936"
+    },
+    {
+        "type": "inproceedings",
+        "venue": "Annual Computer Security Applications Conference (ACSAC)",
+        "author": "Md Rayhanur Rahman, Brandon Wroblewski, Mahzabin Tamanna, Imranur Rahman, Andrew Anufryienak, Laurie Williams",
+        "title": "Towards a Taxonomy of Challenges in Security Control Implementation",
+        "year": "2024",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10917356"
+    },
+    {
+        "type": "inproceedings",
+        "venue": "IEEE International Conference on Data Mining (ICDM)",
+        "author": "Md Rayhanur Rahman, Brandon Wroblewski, Quinn Matthews, Brantley Morgan, Timothy Menzies, Laurie Williams",
+        "title": "ChronoCTI: Mining Knowledge Graph of Temporal Relations Among Cyberattack Actions",
+        "year": "2024",
+        "url": "https://ieeexplore.ieee.org/abstract/document/10884120"
+    },
+    {
+        "type": "article",
+        "venue": "ACM Transactions on Software Engineering and Methodology",
+        "author": "Rezvan Mahdavi-Hezaveh, Sameeha Fatima, Laurie Williams",
+        "title": "Paving a Path for a Combined Family of Feature Toggle and Configuration Option Research",
+        "year": "2024",
+        "url": "https://dl.acm.org/doi/abs/10.1145/3672555"
+    },
+    {
         "type": "article",
         "venue": "ACM Computing Surveys",
         "author": "Sarah Elder, Md Rayhanur Rahman, Gage Fringer, Kunal Kapoor, and Laurie Williams",
