@@ -22,9 +22,9 @@ link: false
 ---
 The goal of this research is to aid developers and software architects in making good component choices through an analysis of the relevance and utility of security measures from the entire dependency tree associated with a package.
 
-The survey for GO developers is LIVE! And can be found at: [https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q](https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q)
+<!-- The survey for NPM developers is LIVE! And can be found at: [https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q](https://ncsu.qualtrics.com/jfe/form/SV_elWM15q0URJEr8q) -->
 
-If possible, please fill out the survey *no later than July 19*.
+If possible, please fill out the survey *no later than July 4.
 
 # Survey Overview
 
