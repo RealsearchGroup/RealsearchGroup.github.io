@@ -14,13 +14,13 @@ profx:
 #     image: /img/people/scott.png
 #     bio: aka Cyclops
 
-grad-e:
-    display_name: "Nusrat Zahan"
+grad-m:
+    display_name: "Mahzabin Tamanna"
     role: grad
-    webpage: "https://www.nzahan.net/"
-    image: "/img/people/Nusrat.png"
+    webpage: "https://sites.google.com/view/mahzabintamanna/home"
+    image: "/img/people/mahzabin.png"
     bio: null
-    github: null
+    github: Mahzabin-Tamanna
 
 grad-i:
     display_name: "Imranur Rahman"
@@ -29,14 +29,6 @@ grad-i:
     image: "/img/people/imran.jpg"
     bio: null
     github: imranur-rahman
-    
-grad-m:
-    display_name: "Mahzabin Tamanna"
-    role: grad
-    webpage: "https://sites.google.com/view/mahzabintamanna/home"
-    image: "/img/people/mahzabin.png"
-    bio: null
-    github: Mahzabin-Tamanna
     
 grad-s:
     display_name: "Sivana Hamer"
@@ -53,7 +45,14 @@ grad-t:
     image: "/img/people/jill_marley.jpeg"
     bio: null
     github: null   
-
+    
+alum-an::
+    display_name: "Nusrat Zahan"
+    role: grad
+    webpage: "https://www.nzahan.net/"
+    image: "/img/people/Nusrat.png"
+    bio: null
+    github: null
 alum-ag:
     display_name: "Setu Kumar Basak"
     role: alum
