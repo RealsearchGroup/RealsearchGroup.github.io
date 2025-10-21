@@ -1,5 +1,21 @@
 var dataSet = [
     {
+        "type": "inproceedings",
+        "venue": "IEEE/ACM International Conference on Software Engineering (ICSE)",
+        "author": "Sivana Hamer, Jacob Bowen, Md Nazmul Haque, Robert Hines, Chris Madden, Laurie Williams",
+        "title": "Closing the Chain: How to reduce your risk of being SolarWinds, Log4j, or XZ Utils",
+        "year": "2026",
+        "url": "https://doi.org/10.48550/arXiv.2503.12192"
+    },
+    {
+        "type": "inproceedings",
+        "venue": "ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED)",
+        "author": "Laurie Williams, Sammy Migues",
+        "title": "Establishing a Baseline of Software Supply Chain Security Task Adoption by Software Organizations",
+        "year": "2025",
+        "url": "https://doi.org/10.48550/arXiv.2509.08083"
+    },
+    {
         "type": "article",
         "venue": "IEEE Transactions on Software Engineering",
         "author": "Sivana Hamer, Nasif Imtiaz, Mahzabin Tamanna, Preya Shabrina, Laurie Williams",
