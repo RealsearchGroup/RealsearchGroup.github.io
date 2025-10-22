@@ -45,6 +45,14 @@ grad-j:
     image: "/img/people/jill_marley.jpeg"
     bio: null
     github: null   
+
+grad-k:
+    display_name: "Tanmay Pardeshi"
+    role: grad
+    webpage: "https://www.linkedin.com/in/tanmaypardeshi/"
+    image: "/img/people/tanmay.jpeg"
+    bio: null
+    github: null   
     
 alum-an::
     display_name: "Nusrat Zahan"
