@@ -53,7 +53,15 @@ grad-k:
     image: "/img/people/tanmay.jpeg"
     bio: null
     github: null   
-    
+
+postdoc-a:
+    display_name: "Ranindya \"Nanin\" Paramitha"
+    role: postdoc
+    webpage: "https://ranindyap.github.io/"
+    image: "/img/people/nanin.jpeg"
+    bio: null
+    github: rnp-nanin
+
 alum-an::
     display_name: "Nusrat Zahan"
     role: alum
